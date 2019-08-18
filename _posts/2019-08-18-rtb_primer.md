@@ -8,4 +8,4 @@ date: 2019-08-18
 
 **Real-time bidding (RTB)** is a means by which advertising inventory is bought and sold on a per-impression
 basis, via programmatic instantaneous auction, similar to financial markets
-([https://en.wikipedia.org/wiki/Real-time_bidding | Wikipedia]).
+([Wikipedia](https://en.wikipedia.org/wiki/Real-time_bidding)).
