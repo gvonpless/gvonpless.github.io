@@ -5,6 +5,7 @@ date: 2019-08-18
 ---
 
 [Wikipedia](https://en.wikipedia.org/wiki/Real-time_bidding) says:
+
 > **Real-time bidding (RTB)** is a means by which advertising inventory is bought and sold on a
 > per-impression basis, via programmatic instantaneous auction, similar to financial markets.
 
@@ -20,5 +21,6 @@ needs to provide configuration ahead of time to let the decision system know the
 ### Where'd You Get the ~~Coconuts~~ Data?!
 
 Wikipedia again: (I mean, this is what it's there for, right?)
+
 > ... a bid request [includes] various pieces of data such as the user’s demographic information,
 > browsing history, location, and the page being loaded.
