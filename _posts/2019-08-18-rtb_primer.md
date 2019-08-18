@@ -2,6 +2,7 @@
 layout: post
 title: "RTB Primer"
 date: 2019-08-18
+author: Gregory J. Von Pless
 ---
 
 # Real-time Bidding Primer
