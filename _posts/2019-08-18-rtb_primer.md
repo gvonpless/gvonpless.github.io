@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Real-time Bidding Primer"
+title: "What the Deal with Real-time Bidding?"
 date: 2019-08-18
 ---
 
